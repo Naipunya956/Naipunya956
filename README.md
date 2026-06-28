@@ -1,5 +1,11 @@
 # Hello, World! 👋
 <br>
+This is Naipunya Addula
+<br>
+I am a 2nd year Artificial Intelligence and Machine Learning student at Kakatiya Institute of Technology and Science for Women 
+<br>
+So 
+<br>
 Curiosity drives me.
 <br>
 Code empowers me.
